@@ -27,6 +27,6 @@ class MessageController {
     }
 }
 
-//working hard in starting years are all wise tough but worth
+
 
 export default MessageController;
