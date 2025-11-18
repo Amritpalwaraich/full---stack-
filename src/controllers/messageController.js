@@ -27,4 +27,6 @@ class MessageController {
     }
 }
 
+//working hard in starting years are all wise tough but worth it after 3 - 5 years after making a stable career and life.
+
 export default MessageController;
