@@ -6,6 +6,7 @@ module.exports = async function connectDB() {
         await mongoose.connect(dbURI, {
             useNewUrlParser: true,
             useUnifiedTopology: true,
+            dbName: "full-stack-app",
         });
         console.log('MongoDB connected successfully');
     } catch (error) {
